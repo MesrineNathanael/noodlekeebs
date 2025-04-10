@@ -1,0 +1,3 @@
+[submodule "Ghosty62/zmk-keyboards-ghosty62"]
+	path = Ghosty62/zmk-keyboards-ghosty62
+	url = https://github.com/MesrineNathanael/zmk-keyboards-ghosty62/
